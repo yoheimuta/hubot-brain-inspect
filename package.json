@@ -1,0 +1,28 @@
+{
+  "name": "hubot-brain-inspect",
+  "version": "0.0.1",
+  "description": "Hubot inspect their own brain",
+  "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com/yoheimuta/hubot-brain-inspect.git"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot brain",
+    "hubot-brain",
+    "hubot brain inspect",
+    "hubot brain storage"
+  ],
+  "bugs": {
+    "url": "https://github.com/yoheimuta/hubot-brain-inspect/issues"
+  },
+  "author": "yoheimuta <yoheimuta@gmail.com>",
+  "license": "MIT"
+}
